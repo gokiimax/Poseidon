@@ -3,6 +3,11 @@
 # Poseidon
 Poseidon is a application to encrypt and decrypt files with the OTP methode
 - Released 20.07.2022
+<p align="center">
+	<a href="https://discord.gg/yVWygKS3Xn">
+		<img src="https://canary.discordapp.com/api/guilds/999373116918743100/embed.png" alt="Discord server">
+	</a>
+</p>
 
 ## ⚙️ Installation
 ### Windows
